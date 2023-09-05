@@ -1,0 +1,77 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.section-display {
+  background-color: #f0f8ff;
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.registration-bar {
+  background-color: #72a0c1;
+  border-radius: 10px;
+  display: flex;
+  align-content: center;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  height: 10rem;
+  width: 100%;
+}
+
+.registration-bar * {
+  display: flex;
+  justify-content: center;
+}
+
+.history-paragraph {
+  font-size: 21px;
+  line-height: 31px;
+  font-weight: 300;
+}
+
+.rowcolor {
+  background-color: #f0f8ff;
+}
+
+.img-fluid {
+  height: 30rem;
+  object-fit: cover;
+  overflow: hidden;
+  position: relative;
+}
+
+.set {
+  position: absolute;
+
+  top: 50%;
+}
+
+.img-fluid * {
+  transition: transform 2s;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.img-fluid:hover * {
+  transform: scale(1.1);
+}
+
+.application {
+  height: 10rem;
+}
+
+.section5-color {
+  background-color: #f0f8ff;
+}
+
+.icon-style * {
+  margin-bottom: 2rem;
+}

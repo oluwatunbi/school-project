@@ -1,0 +1,17 @@
+.footercolor {
+  background-color: #5072a7;
+}
+
+.footer-intro * {
+  list-style-type: none;
+  margin-top: ;
+  color: #fff;
+}
+
+.footer-line {
+  width: 75rem;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 1px solid #fff;
+  background-color: ;
+}

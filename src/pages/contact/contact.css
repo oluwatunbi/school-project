@@ -1,0 +1,23 @@
+.contact-pic {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.textsize {
+  font-size: 21px;
+  line-height: 31px;
+  font-weight: 300;
+}
+
+.textstyle {
+  position: relative;
+}
+
+.contact-text {
+  position: absolute;
+  font-size: 3rem;
+  font-weight: bold;
+  color: blue;
+  left: 40%;
+  top: 30%;
+}
